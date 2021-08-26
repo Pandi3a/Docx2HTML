@@ -1,9 +1,9 @@
 # Docx2HTML
 Python script to convert multiple docx files to html
 
--Use Linux
--Make sure scripts are executable.
--Install python library mammoth
+- Use Linux.
+- Make sure scripts are executable.
+- Install python library mammoth.
 
 1. Place all DOCX files inside the script directory.
 
